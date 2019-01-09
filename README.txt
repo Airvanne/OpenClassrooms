@@ -1,8 +1,10 @@
+(Pourquoi on nous demande de mettre un README.txt et non un README.md ?)
+
 OPEN CLASSROOMS
 
 Bonjour, ce repo est destiné à un exercice sur OpenClassrooms !
 
-Il y a deux fichiers .rb qui sont en fait des jeux sur terminal. Il nécessite d'avoir ruby d'installer sur son ordinateur.
+Il y a deux fichiers .rb qui sont en fait des jeux sur terminal. Il nécessite d'avoir ruby d'installé sur son ordinateur.
 
 Si c'est le cas vous pouvez donc :
 
